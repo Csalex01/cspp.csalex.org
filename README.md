@@ -1,4 +1,4 @@
-# Informatika leckék
+# Informatika leckék 9-12 osztályosoknak
 
 Matematika-Informatika Light szakon tanultak összesítése első évtől a negyedikig.
 
