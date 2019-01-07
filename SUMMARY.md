@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Informatika leckék](README.md)
+* [Informatika leckék 9-12 osztályosoknak](README.md)
 
 ## 9. Osztály
 
